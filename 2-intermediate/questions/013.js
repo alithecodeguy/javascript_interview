@@ -1,7 +1,7 @@
 /*
 
 
-    What are the difference between const, Object.freeze() and Object.seal()
+    What are the differences between const, Object.freeze() and Object.seal()
 
 
 */
